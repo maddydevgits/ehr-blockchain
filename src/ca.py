@@ -1,0 +1,1 @@
+ehrContractAddress='0x28d0c0076c20fEAaB3AC9d733Ad20812E6CF6Fb6'
